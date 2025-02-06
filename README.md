@@ -11,13 +11,15 @@
 
 <h2>🎬 Demo</h2>
 <p>Watch the demo:</p>
-<p><b>Replace <code>C:\Users\hp\AppData\Roaming\Wondershare\Wondershare Filmora\Projects</code> with your hosted video link (e.g., YouTube, GitHub video upload, or a GIF).</b></p>
 <a href="C:\Users\hp\AppData\Roaming\Wondershare\Wondershare Filmora\Projects">Watch Demo</a>
 
+
+https://github.com/user-attachments/assets/3aec5f29-8168-4f0e-8395-a9fb1de51e13
 <h2>🛠 Tech Stack</h2>
 <ul>
     <li>HTML5 Canvas 🎨</li>
     <li>JavaScript (ES6+) 🚀</li>
+
     <li>CSS (Basic Styling) 🎭</li>
 </ul>
 
