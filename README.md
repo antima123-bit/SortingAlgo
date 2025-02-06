@@ -1,52 +1,62 @@
-📊 Sorting Algorithm Visualizer
-📌 Overview
-This project is a Sorting Algorithm Visualizer that provides an interactive way to understand how sorting algorithms work. It features Selection Sort and dynamically updates the sorting process with smooth animations.
+<h2>📌 Overview</h2>
+<p>This project is a <b>Sorting Algorithm Visualizer</b> that provides an interactive way to understand how sorting algorithms work. It features <b>Selection Sort</b> and dynamically updates the sorting process with smooth animations.</p>
 
-✨ Features
-🎨 Visual Representation of sorting algorithms
-🔄 Random Data Generation for testing different cases
-⏳ Step-by-Step Animation for better understanding
-🎥 Video Demo for easy reference
-🎬 Demo
-Watch the demo
+<h2>✨ Features</h2>
+<ul>
+    <li>🎨 <b>Visual Representation</b> of sorting algorithms</li>
+    <li>🔄 <b>Random Data Generation</b> for testing different cases</li>
+    <li>⏳ <b>Step-by-Step Animation</b> for better understanding</li>
+    <li>🎥 <b>Video Demo</b> for easy reference</li>
+</ul>
 
-📌 Replace video_link_here with your hosted video link (e.g., YouTube, GitHub video upload, or a GIF).
+<h2>🎬 Demo</h2>
+<p>Watch the demo:</p>
+<p><b>Replace <code>C:\Users\hp\AppData\Roaming\Wondershare\Wondershare Filmora\Projects</code> with your hosted video link (e.g., YouTube, GitHub video upload, or a GIF).</b></p>
+<a href="C:\Users\hp\AppData\Roaming\Wondershare\Wondershare Filmora\Projects">Watch Demo</a>
 
-🛠 Tech Stack
-HTML5 Canvas 🎨
-JavaScript (ES6+) 🚀
-CSS (Basic Styling) 🎭
-🚀 Installation
-Clone the repository:
+<h2>🛠 Tech Stack</h2>
+<ul>
+    <li>HTML5 Canvas 🎨</li>
+    <li>JavaScript (ES6+) 🚀</li>
+    <li>CSS (Basic Styling) 🎭</li>
+</ul>
 
-bash
-Copy code
-git clone https://github.com/your_username/sorting-visualizer.git
-Open the index.html file in a browser.
+<h2>🚀 Installation</h2>
+<p>Clone the repository:</p>
+<code>
+    git clone https://github.com/your_username/sorting-visualizer.git
+</code>
+<p>Open the <code>index.html</code> file in a browser.</p>
 
-🎯 Usage
-Click the Randomize button to generate new data.
-Enter custom numbers (comma-separated) if desired.
-Click the Sort button to see the sorting algorithm in action.
-Watch as the elements swap positions dynamically!
-📝 Code Explanation
-Canvas Setup: Initializes the drawing area.
-drawArray(): Handles the visualization of sorting steps.
-Selection Sort Algorithm: Highlights comparisons and swaps.
-Event Listeners: Handles user interactions for generating and sorting data.
-🚀 Future Improvements
-✅ Add more sorting algorithms like Quick Sort & Merge Sort
+<h2>🎯 Usage</h2>
+<ol>
+    <li>Click the <b>Randomize</b> button to generate new data.</li>
+    <li>Enter custom numbers (comma-separated) if desired.</li>
+    <li>Click the <b>Sort</b> button to see the sorting algorithm in action.</li>
+    <li>Watch as the elements swap positions dynamically!</li>
+</ol>
 
-✅ Implement speed control for animations
+<h2>📝 Code Explanation</h2>
+<ul>
+    <li><b>Canvas Setup:</b> Initializes the drawing area.</li>
+    <li><b>drawArray():</b> Handles the visualization of sorting steps.</li>
+    <li><b>Selection Sort Algorithm:</b> Highlights comparisons and swaps.</li>
+    <li><b>Event Listeners:</b> Handles user interactions for generating and sorting data.</li>
+</ul>
 
-✅ Improve UI with a better design
+<h2>🚀 Future Improvements</h2>
+<ul>
+    <li>✅ Add more sorting algorithms like Quick Sort & Merge Sort</li>
+    <li>✅ Implement speed control for animations</li>
+    <li>✅ Improve UI with a better design</li>
+</ul>
 
-🤝 Contributing
-Pull requests are welcome! Feel free to contribute by adding new features or optimizing the existing ones.
+<h2>🤝 Contributing</h2>
+<p>Pull requests are welcome! Feel free to contribute by adding new features or optimizing the existing ones.</p>
 
-📜 License
-This project is licensed under the MIT License.
+<h2>🐟 License</h2>
+<p>This project is licensed under the <b>MIT License</b>.</p>
 
-📧 Contact
-For queries or collaborations, reach out via GitHub or LinkedIn!
+<h2>📞 Contact</h2>
+<p>For queries or collaborations, reach out via GitHub or LinkedIn!</p>
 
