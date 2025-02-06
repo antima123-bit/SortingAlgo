@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/3aec5f29-8168-4f0e-8395-a9fb1de51e13
 <h2>🚀 Installation</h2>
 <p>Clone the repository:</p>
 <code>
-    git clone https://github.com/your_username/sorting-visualizer.git
+    git clone https://github.com/antima123-bit/sorting-visualizer.git
 </code>
 <p>Open the <code>index.html</code> file in a browser.</p>
 
